@@ -20,7 +20,7 @@ int main() {
     double height, weight;
     string failed_subject;
 
-    // Giriş ekranı
+
     cout << "-------------------- School System -------------------- " << endl;
     cout << "Enter your name: ";
     cin >> name;
