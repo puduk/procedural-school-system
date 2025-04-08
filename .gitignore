@@ -1,0 +1,19 @@
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+cmake-build-*/
+
+# JetBrains
+.idea/
+*.iml
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Output
+*.exe
+*.out
+*.o
