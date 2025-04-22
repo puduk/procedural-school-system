@@ -123,3 +123,8 @@ Your choice: 7
 Quitting...
 Goodbye, Mert Demir!
 ```
+
+## 🪪 License
+
+This project is licensed under the [MIT License](https://github.com/puduk/procedural-school-system/blob/main/LICENSE) © 2025 [puduk](https://github.com/puduk)
+
